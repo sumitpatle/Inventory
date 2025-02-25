@@ -5,6 +5,27 @@ Inventory booking items
 
 This API provides a way to fetch booking information from the database. It offers functionality to retrieve all bookings or a specific booking based on the provided `BookingId`.
 
+## Technologies Used
+
+- **ASP.NET Core**: Framework for building APIs.
+- **Entity Framework Core**: ORM used for interacting with the database.
+- **SQLlite**: Database for storing booking data.
+- **AutoMapper** : Mapping
+- **csvhelper** : parsing csv file.
+- **MediatR** : Query and Command Pattern.
+
+## How to Run
+
+1. Clone the repository.
+2. Run the following commands to restore dependencies and run the project:
+   ```bash
+   dotnet restore
+   dotnet build
+   dotnet run
+
+## How to Start
+1. Upload file member and inventory from 
+
 ## Endpoints
 
 ### `POST api/upload`
