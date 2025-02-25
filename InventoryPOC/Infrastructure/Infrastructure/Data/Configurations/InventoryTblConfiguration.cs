@@ -11,10 +11,10 @@ namespace Infrastructure.Data.Configurations
             builder.ToTable("INVENTORY_INFO_TBL");
             builder.HasKey(x => x.Id).IsClustered();
 
-            builder.Property(x => x.Id).HasColumnName(@"INVENTORY_ID").HasColumnType("long").IsRequired().ValueGeneratedOnAdd();
+            builder.Property(x => x.Id).HasColumnName(@"INVENTORY_ID").HasColumnType("bigint").IsRequired().ValueGeneratedOnAdd();
             builder.Property(x => x.Title).HasColumnName(@"TITLE_TXT").HasColumnType("varchar(50)").IsRequired().IsUnicode(false).HasMaxLength(16);
             builder.Property(x => x.Description).HasColumnName(@"DISCRIPTION_TXT").HasColumnType("varchar(50)").IsRequired().IsUnicode(false).HasMaxLength(16);
-            builder.Property(x => x.RemainingCount).HasColumnName(@"REMAINING_COUNT").HasColumnType("long").IsRequired().ValueGeneratedOnAdd();
+            builder.Property(x => x.RemainingCount).HasColumnName(@"REMAINING_COUNT").HasColumnType("bigint");
             builder.Property(x => x.ExpirationDate).HasColumnName(@"EXPIRATION_DATE").HasColumnType("datetime").IsRequired();
             
             builder.Property(x => x.CREATE_DATETIME).HasColumnName(@"CREATE_DATETIME").HasColumnType("datetime").IsRequired();

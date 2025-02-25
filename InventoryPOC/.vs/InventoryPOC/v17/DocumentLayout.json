@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44316296-C5C5-4EB2-A253-8F1836F29864}|InventoryPOC\\InventoryPOC.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\inventorypoc\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44316296-C5C5-4EB2-A253-8F1836F29864}|InventoryPOC\\InventoryPOC.csproj|solutionrelative:inventorypoc\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\infrastructure\\infrastructure\\services\\uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\services\\uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64E0802A-7F0A-4E95-B05D-E4702638A78F}|Application\\Application\\Application.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\application\\application\\upload\\uploadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64E0802A-7F0A-4E95-B05D-E4702638A78F}|Application\\Application\\Application.csproj|solutionrelative:application\\application\\upload\\uploadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\infrastructure\\infrastructure\\services\\uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\services\\uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44316296-C5C5-4EB2-A253-8F1836F29864}|InventoryPOC\\InventoryPOC.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\inventorypoc\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44316296-C5C5-4EB2-A253-8F1836F29864}|InventoryPOC\\InventoryPOC.csproj|solutionrelative:inventorypoc\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\infrastructure\\infrastructure\\data\\configurations\\inventorytblconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\data\\configurations\\inventorytblconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\infrastructure\\infrastructure\\data\\configurations\\bookingtblconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\data\\configurations\\bookingtblconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\infrastructure\\infrastructure\\data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\infrastructure\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{64E0802A-7F0A-4E95-B05D-E4702638A78F}|Application\\Application\\Application.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\application\\application\\booking\\cancelbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64E0802A-7F0A-4E95-B05D-E4702638A78F}|Application\\Application\\Application.csproj|solutionrelative:application\\application\\booking\\cancelbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\infrastructure\\infrastructure\\data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB76F845-0169-435D-AE5E-4E7677FDAAB8}|Infrastructure\\Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure\\data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +50,25 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 31,
+          "SelectedChildIndex": 36,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadCommand.cs",
+              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Upload\\UploadCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Application\\Upload\\UploadCommand.cs",
+              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Upload\\UploadCommand.cs",
+              "RelativeToolTip": "Application\\Application\\Upload\\UploadCommand.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:35:40.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:529615269:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -110,6 +135,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:24:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
@@ -135,6 +164,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
               "$type": "Bookmark",
@@ -170,58 +203,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryTblConfiguration.cs",
+              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\Configurations\\InventoryTblConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Data\\Configurations\\InventoryTblConfiguration.cs",
+              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\Configurations\\InventoryTblConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Infrastructure\\Data\\Configurations\\InventoryTblConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:41:53.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UploadController.cs",
-              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\InventoryPOC\\Controllers\\UploadController.cs",
-              "RelativeDocumentMoniker": "InventoryPOC\\Controllers\\UploadController.cs",
-              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\InventoryPOC\\Controllers\\UploadController.cs",
-              "RelativeToolTip": "InventoryPOC\\Controllers\\UploadController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T08:48:11.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UploadCommand.cs",
-              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Upload\\UploadCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Application\\Upload\\UploadCommand.cs",
-              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Upload\\UploadCommand.cs",
-              "RelativeToolTip": "Application\\Application\\Upload\\UploadCommand.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA6wC0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T09:00:52.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MemberTblConfiguration.cs",
-              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\Configurations\\MemberTblConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Data\\Configurations\\MemberTblConfiguration.cs",
-              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\Configurations\\MemberTblConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Infrastructure\\Data\\Configurations\\MemberTblConfiguration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T09:36:45.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UploadService.cs",
               "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Services\\UploadService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Services\\UploadService.cs",
               "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Services\\UploadService.cs",
               "RelativeToolTip": "Infrastructure\\Infrastructure\\Services\\UploadService.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAjwGgAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T09:02:47.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\DependencyInjection.cs",
@@ -233,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CancelBookingCommand.cs",
               "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Booking\\CancelBookingCommand.cs",
               "RelativeDocumentMoniker": "Application\\Application\\Booking\\CancelBookingCommand.cs",
@@ -246,6 +254,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "BookingContext.cs",
+              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\BookingContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Data\\BookingContext.cs",
+              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\BookingContext.cs",
+              "RelativeToolTip": "Infrastructure\\Infrastructure\\Data\\BookingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:14:25.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\InventoryPOC\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "InventoryPOC\\Controllers\\UploadController.cs",
+              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\InventoryPOC\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "InventoryPOC\\Controllers\\UploadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:48:11.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingTblConfiguration.cs",
+              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\Configurations\\BookingTblConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Data\\Configurations\\BookingTblConfiguration.cs",
+              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\Configurations\\BookingTblConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Infrastructure\\Data\\Configurations\\BookingTblConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:42:11.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "BookItemCommand.cs",
               "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Booking\\BookItemCommand.cs",
               "RelativeDocumentMoniker": "Application\\Application\\Booking\\BookItemCommand.cs",
@@ -258,14 +305,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BookingContext.cs",
-              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\BookingContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Data\\BookingContext.cs",
-              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\BookingContext.cs",
-              "RelativeToolTip": "Infrastructure\\Infrastructure\\Data\\BookingContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "MemberTblConfiguration.cs",
+              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\Configurations\\MemberTblConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Data\\Configurations\\MemberTblConfiguration.cs",
+              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Infrastructure\\Infrastructure\\Data\\Configurations\\MemberTblConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Infrastructure\\Data\\Configurations\\MemberTblConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T09:14:25.398Z"
+              "WhenOpened": "2025-02-24T09:36:45.157Z"
             }
           ]
         }

@@ -1,7 +1,4 @@
-﻿using Application.Booking;
-using Application.Upload;
-using Azure;
-using Microsoft.AspNetCore.Http;
+﻿using Application.Upload;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
@@ -15,6 +12,8 @@ namespace InventoryPOC.Controllers
 
         public async Task<IActionResult> Upload([FromForm] UploadCommand command)
         {
+            
+
             var result = await Mediator.Send(command);
             if (!string.IsNullOrEmpty(result))
                 return Ok(new
