@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44316296-C5C5-4EB2-A253-8F1836F29864}|InventoryPOC\\InventoryPOC.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\inventorypoc\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44316296-C5C5-4EB2-A253-8F1836F29864}|InventoryPOC\\InventoryPOC.csproj|solutionrelative:inventorypoc\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E0802A-7F0A-4E95-B05D-E4702638A78F}|Application\\Application\\Application.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\application\\application\\data\\inventoryqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E0802A-7F0A-4E95-B05D-E4702638A78F}|Application\\Application\\Application.csproj|solutionrelative:application\\application\\data\\inventoryqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E0802A-7F0A-4E95-B05D-E4702638A78F}|Application\\Application\\Application.csproj|d:\\cma cgm\\onedrive - cma cgm\\z_workplace\\repos\\inventory\\inventorypoc\\application\\application\\data\\memberqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E0802A-7F0A-4E95-B05D-E4702638A78F}|Application\\Application\\Application.csproj|solutionrelative:application\\application\\data\\memberqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 33,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,10 +90,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:24:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
@@ -105,15 +114,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
               "$type": "Bookmark",
@@ -146,6 +147,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:36:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryQueries.cs",
+              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Data\\InventoryQueries.cs",
+              "RelativeDocumentMoniker": "Application\\Application\\Data\\InventoryQueries.cs",
+              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Data\\InventoryQueries.cs",
+              "RelativeToolTip": "Application\\Application\\Data\\InventoryQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:49:33.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberQueries.cs",
+              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Data\\MemberQueries.cs",
+              "RelativeDocumentMoniker": "Application\\Application\\Data\\MemberQueries.cs",
+              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Application\\Application\\Data\\MemberQueries.cs",
+              "RelativeToolTip": "Application\\Application\\Data\\MemberQueries.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:26:31.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\InventoryPOC\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "InventoryPOC\\Controllers\\DataController.cs",
+              "ToolTip": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\InventoryPOC\\Controllers\\DataController.cs",
+              "RelativeToolTip": "InventoryPOC\\Controllers\\DataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:25:53.103Z",
+              "EditorCaption": ""
             }
           ]
         }
