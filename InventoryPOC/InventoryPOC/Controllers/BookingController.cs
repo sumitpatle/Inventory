@@ -20,5 +20,13 @@ namespace InventoryPOC.Controllers
             var result = await Mediator.Send(command);
             return Ok(result);
         }
+
+
+        [HttpGet("booking")]
+        public async Task<IActionResult> Bookings([FromQuery] BookingQueries query)
+        {
+            var result = await Mediator.Send(query);
+            return Ok(result);
+        }
     }
 }

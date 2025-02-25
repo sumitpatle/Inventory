@@ -38,16 +38,21 @@ namespace Application.Booking
                 if (inventoryItem.RemainingCount <= 0)
                     return "Inventory item is out of stock";
 
+                var bookings = _context.BookingsTbls.ToList();
+                var bookingId = bookings.Any() ? bookings.Select(x => x.Id).Max() : 0;
+                bookingId++;
                 // Create Booking
                 var booking = new Bookings
                 {
+                    Id = bookingId,
                     MemberId = request.MemberId,
                     InventoryItemId = request.InventoryItemId,
                     BookingDate = DateTime.Now,
                     CREATE_USER_ID_CD = "Test_User",
+                    LAST_UPDATE_USER_ID_CD = "Test_User",
                     CREATE_DATETIME = DateTime.Now,
+                    LAST_UPDATE_DATETIME = DateTime.Now
                 };
-
 
                 inventoryItem.RemainingCount -= 1;
                 member.BookingCount += 1;
