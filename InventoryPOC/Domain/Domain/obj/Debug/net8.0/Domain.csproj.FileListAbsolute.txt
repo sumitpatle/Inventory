@@ -1,0 +1,13 @@
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\bin\Debug\net8.0\Domain.dll
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\bin\Debug\net8.0\Domain.pdb
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\Domain.dll
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\Domain.pdb
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Domain\Domain\obj\Debug\net8.0\ref\Domain.dll

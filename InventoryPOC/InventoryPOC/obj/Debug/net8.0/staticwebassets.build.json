@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y08TugejUNYkjDuYSVxwCAicHwKEZ2nfggWZALyYdv4=",
+  "Source": "InventoryPOC",
+  "BasePath": "_content/InventoryPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

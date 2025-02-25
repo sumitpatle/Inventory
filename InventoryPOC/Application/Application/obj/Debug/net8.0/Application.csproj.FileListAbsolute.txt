@@ -1,0 +1,16 @@
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\bin\Debug\net8.0\Application.deps.json
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\bin\Debug\net8.0\Application.dll
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\bin\Debug\net8.0\Application.pdb
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\Application.dll
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\refint\Application.dll
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\Application.pdb
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\ref\Application.dll
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\bin\Debug\net8.0\Domain.dll
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\bin\Debug\net8.0\Domain.pdb
+D:\CMA CGM\OneDrive - CMA CGM\z_WorkPlace\repos\Inventory\InventoryPOC\Application\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date

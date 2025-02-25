@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kv+m2akkbkE=",
+  "success": true,
+  "projectFilePath": "D:\\CMA CGM\\OneDrive - CMA CGM\\z_WorkPlace\\repos\\Inventory\\InventoryPOC\\Domain\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumit Patle\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Sumit Patle\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Sumit Patle\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
