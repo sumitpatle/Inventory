@@ -24,7 +24,7 @@ This API provides a way to fetch booking information from the database. It offer
    dotnet run
 
 ## How to Start
-1. Upload file member and inventory from 
+1. Upload file member and inventory from https://github.com/sumitpatle/Inventory/tree/master/Datafile
 
 ## Endpoints
 
